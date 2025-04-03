@@ -22,4 +22,4 @@ Integrar a teoria da evolução das máquinas computacionais com a prática de i
 -------------------------------------------------------------
 
 # Autor
-@Felip3-Arrud - Felipe Dias 
+- @Felip3-Arrud - Felipe Dias RGM: 37936824
