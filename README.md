@@ -1,11 +1,11 @@
 # Pensamento-Computacional-AtividadeAva
 
 # Descrição
-Este projeto é uma atividade avaliativa da Segunda Unidade da matéria Pensamento Computacional, e tem como objetivo a implemetação de soluções práticas em problemas complexos, relacinando diretamente com o impacto da evolução computacional. Este projeto tem como propósito a solução prática para a modelagem e previsão da propagação de epidemias e pandemias. 
+  Este projeto é uma atividade avaliativa da Segunda Unidade da matéria Pensamento Computacional, e tem como objetivo a implemetação de soluções práticas em problemas complexos, relacinando diretamente com o impacto da evolução computacional. Este projeto tem como propósito a solução prática para a modelagem e previsão da propagação de epidemias e pandemias. 
 
 
 # Objetivo 
-Integrar a teoria da evolução das máquinas computacionais com a prática de implementação de soluções, promovendo uma análise crítica do impacto dessas tecnologias.
+  Integrar a teoria da evolução das máquinas computacionais com a prática de implementação de soluções, promovendo uma análise crítica do impacto dessas tecnologias.
 
 
 # Aplicabilidade
